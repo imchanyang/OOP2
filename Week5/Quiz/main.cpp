@@ -47,5 +47,5 @@ int main() {
        cout << "삼각형의 넓이는 " << area(width, height) << " 입니다."<< endl;
    }
 
-
+    return 0;
 }
