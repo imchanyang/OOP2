@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-    cout << "4개의 숫자를 공백으로 구분해서 입력하세요 : ";
+    cout << "4개의 숫자(정수)를 공백으로 구분해서 입력하세요 : ";
     int a, b, c, d;
     cin >> a >> b >> c >> d;
 
